@@ -26,6 +26,8 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
+  	font-size: 40px;
+	font: 100%/1.4 Didot, serif;
 	background: #B3797A;
 	text-align: center;
 	margin: 0px;

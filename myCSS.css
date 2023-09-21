@@ -2,7 +2,6 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	font: 100%/1.4 Didot, serif;
-	font-weight: bold;
      background-color: #2B2A2F;
 	margin: 0 auto;
 }
@@ -27,6 +26,7 @@ a:hover, a:active, a:focus {
 }
 .header {
   	font-size: 40px;
+	font-weight: bold;
 	font: 100%/1.4 Didot, serif;
 	background: #B3797A;
 	text-align: center;

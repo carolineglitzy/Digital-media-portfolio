@@ -6,6 +6,18 @@ body {
      background-color: #2B2A2F;
 	margin: 0 auto;
 }
+
+a:link {
+     color: #332229;
+}
+a:visited {
+     color: #784E49;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+	color: #735C5A;
+}
+
 .homePage {
 	background: #FFF2E0;
 }
